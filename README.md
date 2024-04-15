@@ -4,8 +4,8 @@ Welcome! I'm Jacinta, a passionate frontend developer and aspiring fullstack sof
 
 ## A bit about my tech stack:
 
-- 💻 I specialise in frontend development using HTML, CSS, and JavaScript, with expertise in frameworks like ReactJS.
-- 🌐 I also have basic experience with backend development using PHP (especially for WordPress) and Node.js.
+- 💻 I specialise in frontend development using HTML, CSS, and JavaScript, and with expertise in ReactJS framework.
+- 🌐 I also have experience with backend development using PHP (especially for WordPress) and Node.js.
 - 🔗 I'm fascinated by Blockchain technology and have worked extensively with Bitcoin ecosystems and technologies.
 - 📚 I'm always learning and staying updated with the latest trends and technologies in web development. Currently, I'm enrolled in the AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023.
 
